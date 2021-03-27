@@ -13,9 +13,9 @@
   }
 
   body {
-    background-color: grey;/* set the background color here */
+    background-color: rgb(255, 214, 51);/* set the background color here */
     color:rgb(63, 10, 10);/* set the text color to black here */
-    font-family: Arial, Helvetica, sans-serif;/* set the font here */
+    font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;/* set the font here */
     text-align: center;/* set the text alignment here */
    }
 
