@@ -14,7 +14,7 @@
 
   body {
     background-color: rgb(255, 214, 51);/* set the background color here */
-    color:rgb(0, 136, 204);/* set the text color to black here */
+    color:rgb(51, 0, 26);/* set the text color to black here */
     font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;/* set the font here */
     text-align: center;/* set the text alignment here */
    }
@@ -30,7 +30,7 @@
    }
 
   h2 {
-    color: #075aab;
+    color: rgb(51, 0, 26);
     /* set the text color of to #075AAB here */
     /* set both the bottom margin and top margin to 2.5rem here */
     margin-bottom: 2.5rem;
@@ -38,6 +38,7 @@
    }
 
   h3 {
+    color: rgb(51, 0, 26);
     margin-bottom: 0;
     margin-top: 2rem;
   }
